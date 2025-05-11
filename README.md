@@ -13,7 +13,3 @@ This project is an object detection application designed to assist visually impa
 - YOLO weights and configuration files
 - pyttsx3 (for text-to-speech conversion)
 - YOLOv3 (for object detection)
-    - Download [yolov3.weights](https://pjreddie.com/media/files/yolov3.weights)
-    - Download [yolov3-tiny.weights](https://pjreddie.com/media/files/yolov3-tiny.weights)
-    - Download [yolov3.cfg](https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg)
-    - Download [yolov3-tiny.cfg](https://github.com/pjreddie/darknet/blob/master/cfg/yolov3-tiny.cfg)
